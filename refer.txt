@@ -1,0 +1,5 @@
+//image compare refer url
+https://stackoverflow.com/questions/189943/how-can-i-quantify-difference-between-two-images
+//object detection and image process refer url
+https://github.com/OlafenwaMoses/ImageAI
+https://github.com/OlafenwaMoses/ImageAI/tree/master/imageai/Detection
